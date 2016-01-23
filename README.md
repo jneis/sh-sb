@@ -1,2 +1,2 @@
-# sh-sb
+# shell scripts
 sandbox for shell scripts
