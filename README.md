@@ -1,2 +1,2 @@
-# shell scripts
+# shell-scripts
 sandbox for shell scripts
