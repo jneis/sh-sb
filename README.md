@@ -1,2 +1,2 @@
-# shell-scripts
-sandbox for shell scripts
+# util-sh-script
+collection of useful shell scripts
